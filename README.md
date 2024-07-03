@@ -1,0 +1,1 @@
+This is a practice project on HTML skills in preperation to incorporate Javascript.
