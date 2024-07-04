@@ -1,0 +1,11 @@
+.title {
+    color: lightblue;
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.recipe{
+    color: lightcoral;
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+}
